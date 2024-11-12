@@ -10,7 +10,7 @@
 
 📈 **Currently learning**: Advanced statistics, Data Science tools, ML algorithms  
 
-🔗 Check out my projects below! 🚀
+🔗 Check out my stuff below! 🚀
 
 - 🌟 [Portfolio]()  
 
