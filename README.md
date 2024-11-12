@@ -12,6 +12,6 @@
 
 🔗 Check out my stuff below! 🚀
 
-- 🌟 [Portfolio]()  
+- 🌟 [Portfolio](github.com/kylieharyono)  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/kylie-haryono/)
