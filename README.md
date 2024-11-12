@@ -12,6 +12,6 @@
 
 🔗 Check out my projects below! 🚀
 
-- 🌟 [Portfolio](github.com/kylieharyono)  
+- 🌟 [Portfolio]()  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/kylie-haryono/)
