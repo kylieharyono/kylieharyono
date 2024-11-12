@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there! 👋 I'm Kylie
 
-<!--
-**kylieharyono/kylieharyono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 University student
 
-Here are some ideas to get you started:
+🎓 Double-majoring in Data Science & Innovation & Entrepreneurship  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **Passionate about** using data to solve problems & drive decisions  
+
+🔧 **Technologies I'm using**: Python, R, Machine Learning, Data Visualization 
+
+📈 **Currently learning**: Advanced statistics, Data Science tools, ML algorithms  
+
+🔗 Check out my projects below! 🚀
+
+- 🌟 [Portfolio](github.com/kylieharyono)  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/kylie-haryono/)
