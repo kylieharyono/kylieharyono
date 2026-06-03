@@ -8,7 +8,7 @@
 * **Databases:** MySQL, PostgreSQL
 * **Workflow:** Git, Jupyter Notebooks
 
-📈 **Currently expanding**: Agentic AI frameworks, data pipelines, & advanced ML algorithms
+📈 **Currently expanding**: agentic AI frameworks, data pipelines, & advanced ML algorithms
 
 🔗 Check out my stuff below! 🚀
 
