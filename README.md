@@ -1,14 +1,14 @@
 ## Hi there! 👋 I'm Kylie
 
-📚 University student
+💡 **Passionate about** utilizing data to solve complex problems & drive strategic decisions  
 
-🎓 Double-majoring in Data Science & Innovation & Entrepreneurship  
+### 🛠️ Tech Stack & Tools
+* **Languages:** Python, R, SQL
+* **Data Libraries:** Pandas, NumPy, Scikit-learn, Dplyr, Ggplot2, Matplotlib
+* **Databases:** MySQL, PostgreSQL
+* **Workflow:** Git, Jupyter Notebooks, VS Code
 
-💡 **Passionate about** using data to solve problems & drive decisions  
-
-🔧 **Technologies I'm using**: Python, R, Machine Learning, Data Visualization 
-
-📈 **Currently learning**: Advanced statistics, Data Science tools, ML algorithms  
+📈 **Currently expanding**: Agentic AI frameworks, data pipelines, & advanced ML algorithms
 
 🔗 Check out my stuff below! 🚀
 
